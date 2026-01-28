@@ -1,0 +1,256 @@
+Generative Theory of the Seven Mysteries: A Novel Cognitive Framework for Natural Language Processing 
+
+Author: Pengchen Wei † 
+
+†Beijing Youndi Technology Co., Ltd. (Founder and Chief Theorist), Beijing, China 
+
+Corresponding Author: Pengchen Wei, wpc616@aliyun.com 
+
+Author Contribution Statement: Pengchen Wei is the originator and sole theoretician of the "Generative Theory of the Seven Mysteries" (also known as the "Xuan Generative System") discussed in this paper, having independently conducted all research associated with the proposed theoretical framework.
+
+Identity: Founder of Eastern Philosophical Cognitive Generative Linguistics (Xuan Generative System)
+
+Date Declaration:
+
+The "Generative Theory of the Seven Mysteries" presented in this thesis was independently conceived and its theoretical foundation established by the author, Pengchen Wei, on January 15, 2020. The full text of the thesis was completed on January 28, 2026.
+
+Intellectual Property Protection Statement
+
+1. Nature of Content and Rights Declaration
+
+This document is intended to elucidate theoretical frameworks, philosophical insights, and logical models, and explicitly excludes any specific technical algorithms, implementation pathways, or operational parameters. The core theories and cognitive concepts introduced herein for the first time—including but not limited to: the "Generative Theory of the Seven Mysteries" (also known as the "Xuan Generative System"), the "Hyper-Five-Dimensional Nested 4+1 Spatial Model (Ring-Dimensional Spatial Model)", the "Linguistic-Spatiotemporal Model of Mystical Language", the "Spacetime Spiral Angle (Xuan Arc Angle)", and the "Xuan-Jing-Sheng Diagram" (Well Chart, a visual coordinate-based cognitive framework of the theoretical core)—along with the corresponding core algorithm, the "Xuan Algorithm", constitute original intellectual achievements independently created by the author, Wei Pengcheng. These achievements have undergone credible timestamp certification, and national copyright registration is in progress. Relevant patents for logical language processing technologies have entered the formal application stage. Together, these measures establish a tripartite intellectual property protection system encompassing "certification–copyright–patent", thereby safeguarding the originality of the theory and the author's complete legal rights from both legal and technical perspectives.
+
+2. Reservation of Core Rights and Licensing
+
+This work represents the original theoretical achievement of the author, Pengchen Wei, who retains full and indivisible copyright (including moral and economic rights) under the law. These rights encompass all entitlements such as the rights of publication, attribution, modification, reproduction, distribution, adaptation, and communication via information networks, as well as all patent-related derivative rights arising from this theory. To foster academic exchange, the author grants only arXiv.org a non-transferable, non-exclusive, perpetual license, limited solely to the compliant display of the work on the platform and for individual research browsing by users. Except for this specific license, the author has not granted any other rights in any form to any third party.
+
+3. Strict Usage Prohibitions
+
+To protect future intellectual property arrangements, including the publication of monographs, any entity or individual is strictly prohibited from engaging in the following activities: unauthorized downloading, copying, reprinting, distributing, or disseminating the entire work or any portion thereof; using the content of this work through extraction, compilation, citation, or other means for non-personal research purposes, such as public dissemination, academic submission, or commercial promotion; and adapting, interpreting, transforming, or utilizing the content for technical research and development in any form. Any of the above actions shall constitute infringement, and the author will pursue full legal liability in accordance with the law.
+
+4. Special Declaration on Patent Collaboration
+
+For any international patent filings based on this patent, the following non-negotiable principles must be adhered to: In all overseas patent application documents, Pengchen Wei must be listed as the first and sole inventor, and as the primary applicant; collaborators may only be listed as additional applicants or agencies pursuant to a separately executed written legal agreement, which must explicitly relinquish any claims to ownership of the relevant overseas patents; the rights and interests of collaborators are strictly limited to commercial profit-sharing as stipulated in the agreement. All core original rights, Chinese patent rights, and derivative rights are permanently and exclusively vested in the author, Pengchen Wei.
+
+Matters not covered in this statement shall be governed by written legal documents signed by the author and relevant national laws and regulations. The author will rigorously defend the originality and exclusivity of these theoretical achievements to establish a solid foundation for future monograph publications, academic applications, and collaborative developments.
+
+Abstract
+
+The author constructs the "Generative Theory of the Seven Mysteries" (also known as the "Xuan Generative System"), a novel cognitive framework for natural language processing grounded in the Eastern Daoist yin-yang cosmology, focusing on innovative pathways for linguistic research from an Eastern philosophical perspective. Building upon the author’s interdisciplinary expertise and practical experience, the study centers on two fundamental forms—"motion carrier" and "Dynamic-Static Self-Regulating Entity"—and proposes three core solutions: first, employing the four aspectual markers (habitual, progressive, perfect, and perfect progressive) as uniaxial motion trajectory markers within a 3+1 dimensional yin-yang dual-axis system to achieve linguistic mapping of spatiotemporal states; second, redefining the core functions of "will" and "would" as conveying intention, volition, and motion direction, thereby decoupling their conventional association with specific temporal dimensions; third, establishing an integrated spatiotemporal–linguistic Xuan model featuring a hyper-five-dimensional nested 4+1 space (loop-dimensional space), the "Xuan-Jing-Sheng Diagram" (Well Chart, a visual coordinate-based cognitive framework of the theoretical core), and the spatiotemporal spiral angle (Xuan Arc Angle). The hyper-five-dimensional model extends classical four-dimensional spacetime by incorporating a dynamic interface comprising virtual, real, and Xuan layers, with the spatiotemporal spiral angle serving as a metric for delineating the Xuan layer boundary between past and present. The integrated spatiotemporal–linguistic Xuan model enables deep fusion of temporal logic and language generation. Presented as a conjecture within the Pengchen Wei Cosmic Conjecture, this logically self-consistent and empirically verifiable theory has demonstrated breakthrough explanatory power over traditional grammatical theories through more than three decades of practical application, infusing natural language processing with innovative momentum derived from Pengchen Wei’s Eastern cosmological perspective.
+
+Date Statement: 
+
+The "Generative Theory of the Seven Mysteries" described herein was originally conceived and theoretically established solely by the author Pengchen Wei on January 15, 2020. The full manuscript was completed on January 28, 2026.
+
+1. Introduction
+
+Drawing on decades of interdisciplinary expertise and hands-on experience, this study presents the first systematic exposition of the original theoretical framework "Xuan Generation" —specifically the "Generative Theory of the Seven Mysteries" (also known as *Pengchen Wei’s Heart Sutra of Language Generation*). Its core operational logic corresponds to the "Xuan Algorithm," a logical language processing algorithm built upon the theoretical framework of Xuan Generation (Generative Theory of the Seven Mysteries), emphasizing the transformation of theoretical models into linguistic applications. This paper addresses only the theoretical aspects, without delving into specific implementation pathways or technical parameters. As the founder of the Eastern Philosophical Cognitive-Generative Linguistics theory and the founder and chief theorist of Beijing Youdi Technology Co., Ltd., the author transcends the limitations of conventional linguistic theories by grounding the framework in cosmic natural laws, integrating Eastern philosophy, astronomical cognition, and practical experience. The resulting original Xuan Generation language system possesses both scholarly depth and practical value, aiming to explore new pathways for linguistic research and multilingual applications.
+
+Traditional linguistic theories often prioritize academic interpretation, exhibiting common shortcomings such as "emphasis on theory over practice" and "preference for Western logic over Eastern wisdom". The Xuan Generation framework centers on the "cosmology–natural law–language generation" tripartite cognitive structure, breaking down disciplinary barriers and incorporating the Daoist philosophical core of "the Dao generates all things" and dialectical thinking into language research. It not only fills a theoretical gap in the application of Eastern cosmology to language generation but also translates abstract philosophical insights into explorable, applicable linguistic cognitive methods through practical implementation, thereby establishing a distinct theoretical advantage.
+
+2. Core Theoretical Framework and Cognitive System 
+
+2.1 Theoretical Core and Foundational Cognition 
+
+The "Generative Theory of the Seven Mysteries" posits that the essence of language generation lies in the synergistic mapping of symbols and semantic logic, reflecting the natural operational principles of the universe in linguistic expression. The core theoretical foundation of the "Pengchen Wei Cosmic Conjecture—Spacetime Helix Angle (Mystery Arc Angle)" derives from the author's decades of interdisciplinary research and practical exploration. In constructing this framework, the author achieves a profound integration of Eastern philosophy, astronomy, and linguistic application, forming a distinctive cognitive system. This interdisciplinary synthesis is not a mere superposition but is grounded in the fundamental logic of cosmic natural laws. It deeply intertwines the astronomical understanding of the helical motion of celestial bodies (yin-yang dynamics) with Daoist yin-yang philosophy and the logic of language generation, ensuring the theory is both academically grounded and pragmatically relevant. 
+
+2.2 Motion Carriers and Dynamic-Static Self-Regulating Entity 
+
+The study centers on two foundational forms: "motion carriers" and "Dynamic-Static Self-Regulating Entity", which serve as the core supports of the linguistic framework under the "Generative Theory of the Seven Mysteries". A "motion carrier" refers to the spacetime medium that underpins the existence and movement of objects, while a "Dynamic-Static Self-Regulating Entity" denotes an agent capable of autonomously modulating states of rest, motion, and stasis-dynamics interplay. These two forms establish a relational frame of reference, providing the underlying logic for describing spacetime states in language and acting as a critical bridge connecting cosmic perspectives with language generation. 
+
+2.3 Grammatical Interpretation of *Will* and *Would* 
+
+This theoretical framework offers a clear resolution to the grammatical functions of *will* and *would*. Aligned with the core cognition that time dimensions are limited to the present and past, the primary role of *will* and *would* is not to delineate time but to convey ideas, intentions, plans, and directional forward movement, devoid of independent temporal attributes. Specifically, *would* focuses on expressing subjective intentions and directional movement in past contexts, while *will* corresponds to analogous expressions in present scenarios. Both serve to communicate the states of "Dynamic-Static Self-Regulating Entity", thereby fundamentally challenging the traditional grammatical misconception that ties them to specific temporal dimensions. 
+
+The "4+1 Nested Hyper-Five-Dimensional (Loop-Dimensional) Space" model, the Spacetime Helix Angle, and the Language-Xuan Spatiotemporal Model collectively constitute a spacetime cognition solution for the linguistic framework. These components mutually reinforce one another, forming an integrated system that uniformly supports the theoretical unification of cosmic cognition and language generation. 
+
+2.4 Monaxial Motion Trajectory Marking 
+
+The marking of monaxial motion trajectories along the yin-yang dual axes within the 3+1-dimensional spacetime is a core solution for state description in the linguistic framework. The four categories of markers—habitual, progressive, perfect, and perfect progressive—essentially represent precise linguistic mappings of the stasis, motion, and stasis-dynamics composite states of "self-regulating entities of stasis-dynamics" relative to "motion carriers." Each marker corresponds to specific trajectory characteristics of monaxial motion on the yin-yang dual axes, enabling systematic and concrete expression of objects' spacetime motion states. This approach fills a theoretical gap in the linguistic description of motion states under the guidance of an Eastern cosmic perspective.
+
+2.5 Hyper-Five-Dimensional Nested 4+1 Space, Spatiotemporal Helix Angle, and the Language-Xuan Spatiotemporal Model 
+
+Drawing from Pengchen Wei’s Eastern Yin-Yang cosmology, the author proposes an original “Hyper-Five-Dimensional Nested 4+1 Space (Loop-Dimensional Space) Model,” which is fundamentally a “hyper-four-dimensional +1” framework. The 4-dimensional aspect corresponds to the classical four-dimensional spacetime composed of three-dimensional space and time, where the three-dimensional space is defined with respect to the “Dynamic-Static Self-Regulating Entity” as the core reference, referring specifically to the spatial domain inhabited by the subject. Time, similarly grounded in the existence of the “Dynamic-Static Self-Regulating Entity,”essentially represents an objective record of its motion trajectory. With the “Dynamic-Static Self-Regulating Entity”serving as the spatiotemporal reference, the coordinated variation of its three-dimensional spatial position and motion trajectory (time) constitutes a unique four-dimensional space for each subject under study. The +1-dimensional aspect constitutes the original core of the model, defined as a dynamic “Xuan Layer” formed by the helical motion of the sun and moon (Yin and Yang). This layer, together with the Yin Realm, Yang Realm, Virtual Layer, and Actual Layer, forms a three-dimensional structure (corresponding to the grid-logic framework of the “Xuan-Jing-Sheng Diagram”). 
+
+In the three-tiered grid of the “Xuan-Jing-Sheng Diagram”: above the Xuan Layer lies the Virtual Layer, which corresponds to actions and states that have not yet occurred, accommodating linguistic expressions of both “past-present” and “future-present” scenarios; below the Xuan Layer is the Actual Layer, corresponding to actions and states that have occurred (past) or are occurring (present). Here, the past exists as an independent four-dimensional space, anchoring objective and determinate trajectories outside the boundaries of the Xuan Layer within the Actual Layer, while the present anchors immediate trajectories within the boundaries of the Xuan Layer. The Xuan Layer itself, serving as the core interface for transformation between the virtual and the actual, functions both as the boundary between two 3+1-dimensional Yin-Yang spacetimes and, in essence, as the operational manifestation of “Dao” within spacetime. Its primary function is to bear subjective cognitions and transformative intents such as conjecture, inference, judgment, and requirement. 
+
+Regarding the Yin-Yang dual realms in the grid of the “Xuan-Jing-Sheng Diagram”: to the left of the Yin axis of the Xuan Layer lies the Yin Realm, corresponding to the past (what has occurred, encompassing the grid areas associated with *would*, *could*, *did*); to the right of the Yin axis lies the Yang Realm, corresponding to the present (what is occurring, encompassing the grid areas associated with *will*, *can*, *do*). When the motion trajectory of the “Dynamic-Static Self-Regulating Entity” crosses the Xuan Layer via the spatiotemporal helix angle (Xuan Arc Angle) and enters the Yin Realm, it completes the spatiotemporal transformation from “present→ past,” entering another four-dimensional space independent of the current spacetime (corresponding to the past spacetime beyond the left side of the Yin axis). This structure aligns fully with the temporal classification of “past, past-present, present, future-present” and the core concept of the “eternal now,”providing a robust spatiotemporal framework supporting the view that the temporal dimension consists solely of past and present, with the past constituting an independent four-dimensional space. 
+
+The “Xuan-Jing-Sheng Diagram” – Spatiotemporal Helix Angle (Xuan Arc Angle) serves as a core cognitive parameter, essentially functioning as a boundary metric for the Xuan Layer space, naturally formed by the helical motion of the Xuan Layer. Its primary function is to distinguish temporal attributes (past/present). It acts both as a key node for the Xuan Layer’s regulation of virtual-actual transformation and as the fundamental basis for temporally locating action trajectories in linguistic expression. By detecting angular variations in the helical motion of the Xuan Layer, one can precisely determine whether an action belongs to the past (Yin Realm) or present (Yang Realm), thereby offering a perceptible and interpretable cognitive dimension for defining temporal attributes. 
+
+Details of theoretical application: The Language-Xuan Spatiotemporal Model corresponds to the core +1-dimensional model described above. It serves as a theoretical vehicle for deeply integrating the logic of hyper-five-dimensional nested 4+1 space and the boundary function of the spatiotemporal helix angle with language generation. Its core logic accurately resonates with the concept of “temporal notions in spatial terms”—namely, the “eternal now”—and is fully congruent with the temporal classification of “past, past-present, present, future-present.” The “eternal now” is not a single temporal point but an integrated spatiotemporal category encompassing these four temporal forms. Combined with the three-dimensional structure of the Xuan Layer (virtual-actual layer), Virtual Layer, and Actual Layer in the “Xuan-Jing-Sheng Diagram” within the hyper-five-dimensional nested 4+1 space model, it forms a closed-loop semantic system: In the “Xuan-Jing-Sheng Diagram,” the past, as an independent four-dimensional space, belongs to the Actual Layer and lies to the left of the Yin axis of the Xuan Layer, corresponding to determinate trajectories of events that have occurred; the present belongs to the Actual Layer and spans the Xuan Layer covering the area to the right of the Yin axis, corresponding to actions or states that are occurring; the past-present and future-present are collectively attributed to the Virtual Layer, corresponding to scenarios and intents that have not yet occurred. As specific expressions within this grammatical system, they precisely meet the linguistic mapping requirements for actions in the Virtual Layer. It is essential to clarify that the temporal dimension fundamentally still consists only of past and present; “past-present” and “future-present” represent refined classifications of unmanifest states within the Virtual Layer and are not independent temporal dimensions. The functions of *will* and *would* are not to delineate time but primarily to convey ideas, intentions, plans, and the directional attribute of forward motion. Their semantic transmission relies on the Xuan Layer’s function of virtual-actual transformation, the temporal positioning of the spatiotemporal helix angle (Xuan Arc Angle), and the trajectory-marking function of motion along a single axis, ultimately achieving a deep integration of cosmic cognition, temporal classification, and language generation.
+
+3. Theoretical Innovation and Practical Value 
+
+3.1 Groundbreaking Innovations at the Theoretical Level 
+
+The core innovation of this theory lies in transcending the cognitive boundaries of traditional linguistic research by establishing, for the first time, an intrinsic connection between cosmic natural laws—such as spiral spacetime motion, hyper-five-dimensional nested spaces, and the "Xuan-Jing-Sheng Diagram" visual coordinate tool—and language generation. This framework constructs an original Eastern language generation system fundamentally distinct from Western theoretical paradigms. Unlike Western linguistic theories, which emphasize grammatical rules and logical analysis, this theory is guided by the Taoist philosophical core of "the Tao generating all things," treating language generation as a microscopic projection of cosmic natural laws and achieving theoretical unification of "cosmic perspective and linguistic perspective." 
+
+Simultaneously, the theory innovatively proposes core concepts such as "Xuan Layer" and "spacetime spiral angle," filling theoretical gaps in the Eastern philosophical understanding of spatiotemporal cognition in language. It provides an integrated cognitive pathway of "cosmos-nature-language" for linguistic studies, enriching the diversity and cultural connotation of language generation theories. 
+
+3.2 Practical Exploration at the Applied Level 
+
+Addressing the shortcomings of traditional linguistic theories that "prioritize academic interpretation over practical implementation," the "Xuan Generation" theory is supported by the author’s over three decades of hands-on practice in real-world contexts. It systematically translates abstract cosmic cognition and philosophical logic into applicable, reproducible, and transferable language application methods. 
+
+Validated through decades of practical application, the theory effectively mitigates the tendency toward rote memorization in traditional language learning, helping users deepen their understanding of linguistic semantics and temporal attributes. It demonstrates strong practical adaptability, particularly in rectifying misconceptions in traditional grammar regarding the temporal attributes of "will/would." The theory conveys the core insight that "these modal verbs express ideas, intentions, plans, and directional motion rather than functioning as temporal markers," emphasizing that "the temporal dimension inherently comprises only the present and the past." This ensures targeted and practical theoretical application. 
+
+4. Intellectual Property Protection and Future Prospects 
+
+This paper serves as the foundational document of the "Generative Theory of the Seven Mysteries" (Xuan Generation Theory). Starting from this work, the author will proceed with monograph publications to systematically elaborate the comprehensive framework of the theory. Meanwhile, through appropriate sharing of in-depth interpretations and application guidelines, the theory will transition from academic construction to practical empowerment, enabling this original ideology rooted in Eastern philosophy and the Pengchen Wei Cosmic Conjecture model to effectively guide innovative explorations in linguistics. 
+
+Looking ahead, this theoretical research will advance along two main pathways: first, promoting empirical studies to scientifically validate and iteratively refine core cognitive tools such as the "Language-Xuan Spacetime" model and the spacetime spiral angle (Xuan Arc Angle) across diverse language application scenarios, thereby strengthening their explanatory power and applicability; second, exploring the theoretical boundaries and actively identifying innovative intersections with multilingual education and cross-cultural cognition. 
+
+The author welcomes academic discussions and exchanges based on this theory, provided that all terms of the aforementioned *Intellectual Property Protection Statement* are strictly adhered to. Any further research collaboration must be formalized through an official agreement reached with the author.
+
+5. References 
+
+[1] Laozi. *Dao De Jing* [M]. Annotated by Wang Bi. Zhonghua Book Company, 2011. (Core canonical text articulating the Daoist cosmogony of Yin and Yang.) 
+
+[2] Xu Shen. *Shuowen Jiezi* [M]. Collated by Ruan Yuan. Zhonghua Book Company, 1963. (A seminal work in classical Chinese philology, foundational for constructing an Eastern linguistic framework for the Septenary Generative Theory.) 
+
+[3] Pengchen Wei. "Outline of the Quintessential Method for Yin-Yang Dual-Spiral Five-Tier Generation (2025 Public Edition)". 2025. Jinri Toutiao. https://www.toutiao.com/article/7583366553324847616/
+
+[4] Pengchen Wei. "Pengchen Wei’s 'Septenary Generative Theory': A Cognitive Approach to Resolving Challenges in English Tenses and Subjunctive Mood". 2026. Jinri Toutiao (Forthcoming). https://www.toutiao.com/article/7598216788014334499/
+
+
+
+---
+
+七玄生成论：一种用于自然语言处理的新认知框架
+作者贡献声明：韦朋辰是本论文所述“七玄生成论”（亦称“玄生成体系”）的创立者与唯一理论奠基人，独立完成所提出理论的全部研究工作。
+
+作者：韦朋辰†
+†北京市优谛科技有限公司（创始人暨首席理论家），北京，中国
+
+通讯作者：韦朋辰，wpc616@aliyun.com
+
+身份：东方哲学认知生成语言学（玄生成体系）创始人
+
+日期声明：
+本论文所述“七玄生成论”理论由作者韦朋辰于2020年1月15日独立构想并完成理论奠基。论文全文于 2026年1月28日撰写完成。
+
+---
+
+知识产权保护声明
+
+1、内容性质与权利宣告
+
+本文旨在阐述理论框架、哲学认知与逻辑模型，明确不包含任何具体的技术算法、实现路径及实操参数。文中首次提出的核心理论与认知概念，包括但不限于：“七玄生成论”（Qixuan Generation Theory，亦称玄生成理论）、“超五维套叠4+1空间模型（环维空间模型）”、“语玄时空模型”、“时空螺旋角（玄弧角）”、“玄井生-图”（井字图，理论核心可视化坐标系认知框架），以及与之对应的核心算法“玄式算法”，均为作者韦朋辰独立创造的原创性智力成果。上述成果已完成可信时间戳存证，国家版权登记正有序推进，相关逻辑语言处理技术专利已进入正式申请流程，构建起“存证-版权-专利”三位一体的知识产权防护体系，从法律与技术层面全方位捍卫理论原创性与作者完整权益。
+
+2、核心权利保留与许可
+
+本作品为作者韦朋辰原创理论成果，作者依法享有完整、不可分割的著作权（包括人身权与财产权），涵盖发表权、署名权、修改权、复制权、发行权、改编权、信息网络传播权等全部权能，以及基于本理论的一切专利相关衍生权益。为促进学术交流，作者仅授予arXiv.org平台一项不可转让的、非独占的永久许可，许可范围仅限于在该平台合规展示及供用户个人研究浏览。除此项特定许可外，作者未向任何第三方授予任何形式的其他权利。
+
+3、严格使用禁令
+
+为保障后续专著出版等知识产权规划，严禁任何单位或个人从事以下行为：擅自下载、复制、转载、分发、传播本文全部或部分内容；以摘编、汇编、引用等方式将本文内容用于非个人研究目的的公开传播、学术投稿、商业推广等；对本文内容进行任何形式的改编、演绎、转化或用于技术研发。任何上述行为均构成侵权，作者将依法追究其全部法律责任。
+
+4、关于专利合作的特别声明
+
+针对基于本专利的任何海外布局，须遵循以下不可变更的原则：在所有海外专利申请文件中，韦朋辰必须被列为第一且唯一的发明人，并作为第一顺位申请人；合作方仅可依据另行签署的书面法律协议，被列为附加申请人或代理机构，且必须在该协议中明确放弃对相关海外专利所有权的任何主张；合作方的权益严格限于协议约定的商业收益分成。全部核心原创权利、中国专利权及其衍生权利，永久且排他地归属于作者韦朋辰。
+
+本声明未尽事宜，均以作者签署的书面法律文件及国家相关法律法规为准。作者将严格维护自身原创权益，确保理论成果的唯一性与排他性，为后续专著出版、学术转化及合作布局奠定坚实基础。
+
+摘要
+
+摘要：本文以东方道家阴阳宇宙观为核心，构建“七玄生成论”这一自然语言处理新认知框架，聚焦东方哲学视角下语言学研究的创新路径。研究立足作者跨学科积淀与实践经验，核心锁定“运动载体”与“动静自控体”两类基础形态，提出三大核心解决方案：一是以惯常体、进行体、完成体、完成进行体四类标记作为3+1维度阴阳双轴的单轴运动轨迹标记，实现物体时空状态的语言映射；二是明确will与would核心功能为传递想法、意愿及运动方向，打破其与特定时间维度的绑定认知；三是构建超五维套叠4+1空间（环维空间）、“玄井生-图”（井字图）-时空螺旋角（玄弧角）与语玄时空一体化模型——超五维模型以经典四维时空为基础，增设含虚层、实层、玄层的动态界面，时空螺旋角（玄弧角）作为玄层界限标尺界定过去与现在，语玄时空模型实现时空逻辑与语言生成的深度融合。本理论以韦朋辰宇宙理论猜想形式呈现，逻辑自洽且具备可验证性，在三十余年实践中展现出对传统语法理论的突破性解释力，为自然语言处理注入韦朋辰东方宇宙观创新动能。
+
+日期声明：
+本论文所述“七玄生成论”理论由作者韦朋辰于2020年1月15日独立构想并完成理论奠基。论文全文于 2026年1月28日撰写完成。
+
+
+
+1. 引言
+
+基于作者数十年跨学科积淀与实操经验，首次系统阐释原创理论体系“玄生成”之“七玄生成论”（又称《韦朋辰语言生成心经》），其核心执行逻辑对应的算法为“玄式算法”——该算法是基于玄生成（七玄生成）理论框架构建的逻辑语言处理算法，聚焦理论模型向语言应用的转化，本文仅阐述其理论关联，不涉及具体实现路径与技术参数。作为东方哲学认知生成语言理论创始人、北京市优谛科技有限公司创始人暨首席理论家，作者突破传统语言理论局限，以宇宙自然规律为底层逻辑，融合东方哲学、天文学认知与实践经验，构建起兼具学术深度与实践价值的原创玄生成语言体系，致力于为语言学研究与多语种应用探索全新路径。
+
+传统语言理论多侧重学术阐释，存在“重理论、轻实操”“重西方逻辑、轻东方智慧”的普遍短板。“玄生成”以“宇宙观—自然规律—语言生成”为核心认知框架，打破学科壁垒，将道家“道生万物”的哲学内核与辩证思维融入语言研究，既填补了东方宇宙观在语言生成领域的理论空白，又通过实践转化让抽象哲学认知落地为可探索、可应用的语言认知方法，形成差异化理论优势。
+
+2. 核心理论框架与认知体系
+
+2.1 理论内核与基础认知
+
+“七玄生成论”语言本质观：语言生成的本质，是宇宙自然运行规律在语言表达上的符号与语义逻辑协同映射。“韦朋辰宇宙猜想-时空螺旋角（玄弧角）”的核心理论内核，源于作者数十年跨学科积淀与实践探索。在理论构建中，作者实现东方哲学、天文学与语言应用的深度融合，形成独特的认知体系。这种跨学科融合并非简单叠加，而是以宇宙自然规律为底层逻辑，将天文学中日月阴阳螺旋运动的认知，与道家阴阳哲学、语言生成逻辑深度绑定，让理论既扎根于学术积淀，又贴合实践需求。
+
+2.2 运动载体与动静自控体
+
+研究核心认知锁定“运动载体”与“动静自控体”两类基础形态，这是“七玄生成论”语言框架的核心支撑。“运动载体”指承载物体存在与运动的时空依托，“动静自控体”则是具备自主调节静止、运动、静动状态的主体，二者构成相对参照关系，为语言对时空状态的描述提供底层逻辑，是连接宇宙观与语言生成的关键纽带。
+
+2.3 will与would的语法功能解读
+
+针对will与would的语法功能解读，本理论框架提供明确解决方案。结合时间维度仅含现在与过去的核心认知，will和would的核心功能并非界定时间，而是传递想法、意愿、计划及向前运动的方向，无独立时间属性。其中，would聚焦过去场景中的主观意图与运动方向表达，will对应现在场景下的相关诉求，二者均服务于“动静自控体”的状态传递，彻底打破传统语法将其与特定时间维度绑定的认知误区。
+
+超五维套叠4+1空间（环维空间）模型、时空螺旋角与语玄时空模型，共同构成语言框架的时空认知解决方案，三者互为支撑、形成整体，统一服务于宇宙认知与语言生成的理论贯通。
+
+2.4 单轴运动轨迹标记
+
+物体在时空中3+1维度阴阳双轴的单轴运动轨迹标记，是语言框架中状态描述的核心解决方案。惯常体、进行体、完成体、完成进行体四类标记，本质是“动静自控体”以“运动载体”为参照，对自身静止、运动、静动复合状态的精准语言映射，每类标记对应阴阳双轴上单轴运动的特定轨迹特征，实现对物体时空运动状态的系统化、具象化表达，填补了东方宇宙观指导下运动状态语言描述的框架空白。
+
+2.5 超五维套叠4+1空间、时空螺旋角与语玄时空模型
+
+基于韦朋辰之东方阴阳宇宙观，作者原创“超五维套叠4+1空间（环维空间）模型”，本质是超四维+1模型——4维层面对应传统三维空间与时间构成的经典四维时空，其中三维空间以研究对象“动静自控体”为核心参照，特指该主体所处的空间范畴；时间同样依托“动静自控体”存在，本质是对其运动轨迹的客观记录。以“动静自控体”为时空参照，其所处三维空间与运动轨迹记录（时间）的协同变化，构成每个研究对象专属的四维空间。+1维层面为原创核心，定义为由日月阴阳螺旋运动所形成的动态“玄层”，其与阴界、阳界、虚层、实层构成三维立体结构（对应“玄井生-图”的井字图框架逻辑）。
+
+“玄井生-图”的井字图之三层：玄层之上为虚层，对应未发生的动作与状态，承载“过去现在”“未来现在”两类场景的语言表述；玄层之下为实层，对应已发生（过去）和在发生（现在）的动作与状态，其中过去作为独立的四维空间，锚定实层中玄层界限之外的客观既定轨迹，现在则锚定玄层界限之内的即时轨迹；玄层本身作为虚实之间的核心转化界面，既是两个3+1维阴阳时空的界限，本质也是“道”在时空中的运行形态，核心功能是承载猜测、推理、判断、要求等主观认知与转化意图。
+
+“玄井生-图”的井字图之阴阳双界：玄层的阴轴左侧是阴界，对应过去（已发生，包含would、could、did所处井字区域），玄层的阴轴右侧是阳界，对应现在（在发生，包含will、can、do所处井字区域），当“动静自控体”的运动轨迹通过时空螺旋角（玄弧角）跨越玄层、进入阴界，即完成“现在→过去”的时空转化，进入前文所述独立于当前时空的另一四维空间（对应阴轴左侧之外的过去时空）。这一结构与“过去、过去现在、现在、未来现在”的时间分类及“永恒的现在”核心认知完全吻合，为时间维度仅含过去与现在、过去为独立四维空间的核心观点提供了坚实的时空框架支撑。
+
+“玄井生-图”-时空螺旋角（玄弧角）作为核心认知参数，本质是玄层空间的界限标尺，由玄层螺旋运动自然形成，核心功能是区分时间属性（过去/现在），既是玄层调控虚实转化的关键节点，也是语言表达中动作轨迹时间定位的核心依据——通过捕捉玄层螺旋运动的角度变化，可精准锚定动作归属于过去（阴界）或现在（阳界），为时间属性界定提供可感知、可解读的认知维度。
+
+理论运用细节：语玄时空模型对应上述+1维的核心模型，是将超五维套叠4+1空间逻辑、时空螺旋角界限功能与语言生成深度融合的理论载体，其核心逻辑精准呼应“空间上的时间概念”——即“永恒的现在”，与“过去、过去现在、现在、未来现在”的时间分类完全契合。“永恒的现在”并非单一时间节点，而是囊括这四类时间形态的整体性时空范畴，结合超五维套叠4+1空间模型中玄井生-图中玄层（虚实层）、虚层、实层的立体结构，形成闭环语义体系：在“玄井生-图” 中，过去作为独立的四维空间，归属于实层且处于玄层阴轴左侧，对应已发生的既定轨迹；现在归属于实层且横跨玄层涵盖阴轴右侧，对应在发生的动作或状态；过去现在、未来现在则统一归属于虚层，对应未发生的场景与意图，二者作为本语法体系的特定表述，精准适配虚层动作的语言映射需求。需明确：时间维度的本质仍仅含过去与现在，“过去现在”“未来现在”是对虚层未发生状态的细化分类，并非独立时间维度；而will和would的功能并非划分时间，核心是承载想法、意愿、计划及向前运动的方向属性，其语义传递需依托玄层的虚实转化功能、时空螺旋角（玄弧角）的时间定位、动作轨迹在单轴运动轨迹标记功能实现，最终实现宇宙认知、时间分类与语言生成的深度贯通。
+
+3. 理论创新与实践价值
+
+3.1 理论层面的突破性创新
+
+本理论的核心创新在于打破传统语言研究的认知边界，首次将宇宙自然规律（时空螺旋运动、超五维套叠空间、“玄井生-图”可视化坐标系工具）与语言生成深度绑定，构建起完全区别于西方理论的东方原创语言生成体系。与西方语言理论侧重语法规则、逻辑分析的研究路径不同，本理论以道家“道生万物”的哲学内核为指导，将语言生成视为宇宙自然规律的微观投射，实现“宇宙观—语言观”的理论统一。
+
+同时，理论创新性提出“玄层”“时空螺旋角”等核心概念，填补了东方哲学在语言时空认知领域的理论空白，为语言学研究提供了“宇宙—自然—语言”的一体化认知路径，丰富了语言生成理论的多元性与文化内涵。
+
+3.2 应用层面的实践探索
+
+不同于传统语言理论“重学术阐释、轻落地实操”的短板，“玄生成”理论以作者三十余年工作场景下的实操实践为支撑，将抽象的宇宙认知、哲学逻辑，系统转化为可落地、可复现、可迁移的语言应用方法。
+
+理论经数十年实操验证，可有效改善传统语言学习的机械记忆倾向，帮助使用者深化对语言语义与时间属性的理解，具备较强的实践适配性。尤其针对传统语法中will/would的时间属性界定误区，传递“二者核心表想法、意愿、计划及运动方向，非时间划分工具”“时间维度本质仅含现在与过去”的核心认知，确保理论应用的针对性与实用性。
+
+4. 知识产权保护与未来展望
+
+本论文是“七玄生成论”（玄生成理论）体系的奠基性文献。以此为起点，作者将着手专著出版，系统性地展开该理论的全景蓝图。同时，将通过深度解读与应用指南的适度分享，推动理论从学术构建走向实践赋能，使这一源于东方哲学与韦朋辰宇宙猜想模型的原创思想，能够有效引领语言学领域的创新探索。
+
+展望未来，本理论研究将沿两大路径深化拓展：其一，推进理论的实证研究，在更丰富的语言应用场景中，对‘语玄时空’模型、时空螺旋角（玄弧角）等核心认知工具开展科学验证与迭代，持续夯实其解释力与适用性；其二，探索理论的应用边界，积极挖掘其在多语种教育、跨文化认知等领域的创新结合点。
+作者欢迎在严格遵守本文前述《知识产权保护声明》全部条款的前提下，进行基于本理论的学术讨论与交流。任何进一步的研究合作，均须通过与作者本人达成的正式合作协议另行约定。
+
+5. 参考文献
+
+[1] 老子. 道德经[M]. 王弼, 注. 中华书局, 2011.（道家阴阳宇宙观核心典籍）
+
+[2] 许慎. 说文解字[M]. 阮元, 校刻. 中华书局, 1963.（中国古代语言学经典，为七玄生成论构建东方语言认知框架奠定基础）
+
+[3] 韦朋辰. “阴阳双螺旋五层生成” 玄生成心法纲要（2025 公版）. 2025. 今日头条. https://www.toutiao.com/article/7583366553324847616/
+
+[4] 韦朋辰. 韦朋辰“七玄生成论”：破解英语时态与虚拟语气难题的认知论路径. 2026. 今日头条. https://www.toutiao.com/article/7598216788014334499/
+
+---
+
+Multi-Repository Rights Statement / 多仓库权属声明
+
+The six public repositories — including the Statement Repository (1st), the four structural repositories for Dao, Fa, Shu, Qi (2nd–5th), and the unified Theory Archive Repository (6th) — together constitute an integrated intellectual property portfolio of the WeiPengchen Generative School System. Key provisions are as follows: 六大公开仓库——包括第1个总宣言仓、第2至5个道/法/术/器结构仓，以及第6个理论总汇仓——共同构成韦朋辰生成派理论体系的完整知识产权组合。核心规定如下：
+
+Parallel Repository Uniformity: All repositories are of equal status, with no hierarchical "main repository" relationship. The first repository's rights statement shall serve as the governing document for the other four repositories, and all content shall be subject to the same rights rules. 平行仓库统一性：所有仓库地位平等，不存在层级化的“主仓”关系。首个仓库的权利声明将作为其余四个仓库的管辖文件，所有内容遵循同一权利规则。
+
+Public ≠ Open-Source: The public availability of theoretical content in all repositories is solely for overseas copyright registration, timestamped disclosure, and academic reference. It does not grant any express or implied open-source license, nor does it allow unauthorized use, reproduction, modification, commercialization, or derivation of core theories, methodologies, or technical details. Specifically, the Shu/Qi layer repositories disclose only framework summaries; core practical details, technical parameters, and implementation plans are exclusive trade secrets of WeiPengchen. Any form of decomposition, replication, reverse engineering, or commercial use is strictly prohibited. 公开 ≠ 开源：所有仓库中理论内容的公开，仅用于海外版权登记、时间戳披露及学术参考。不授予任何明示或暗示的开源许可，亦不允许对核心理论、方法论或技术细节进行未经授权的使用、复制、修改、商业化或演绎。其中，术/器层仓库仅公开框架摘要，核心实操细节、技术参数及实现方案均为韦朋辰独家商业秘密，禁止任何形式的拆解、复刻、反向工程及商用。
+
+Rights Reservation: All intellectual property rights, including copyrights, patent rights, trade secrets, and future implementation codes, are exclusively owned by WeiPengchen. Any use beyond academic reference requires prior written authorization from the copyright owner. Violators of the above provisions will be held legally accountable. 权利保留：所有知识产权，包括版权、专利权、商业秘密及未来实现代码，均由韦朋辰独家所有。任何超出学术参考范围的使用，均需事先获得版权所有人的书面授权。违反上述规定者，将依法追究责任。
+
+Overseas Copyright Alignment: This statement is consistent with the ongoing overseas copyright registration process, ensuring uniform rights protection across domestic and international jurisdictions. This disclosure does not constitute any open-source or commercial license; specific permissions are subject to the organization's overarching rights statement. 海外版权一致性：本声明与正在进行的海外版权登记程序保持一致，确保在国内外司法管辖区获得统一的权利保护。本公开不构成任何开源或商业授权，具体权限以组织总权利声明为准。
+
+Ecosystem Next Steps / 生态后续规划 Reference Implementation: Publishing proof-of-concept tools and demos (subject to separate authorization). 参考实现：发布概念验证工具与演示（需另行授权）。
+
+Ecosystem Partnership: Exploring collaboration with aligned AI platforms and educational institutions based on written authorization agreements. 生态伙伴关系：基于书面授权协议，探索与志同道合的AI平台及教育机构的合作。
+
+Productization: Translating the theory into inclusive education products and services, with strict adherence to intellectual property rules. 产品化：将理论转化为普惠教育产品与服务，并严格遵守知识产权规则。
+
+This repository is a monument to thought, a boundary for rights, and an invitation to those who build the future with integrity.
+
+本仓库是思想的纪念碑、权利的边界线，也是向所有以诚信构建未来者发出的邀请函。
+
+韦朋辰
